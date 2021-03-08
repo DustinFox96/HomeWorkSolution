@@ -1,0 +1,13 @@
+C:\repos\HomeWorkSolution\HomeWorkProject\bin\Debug\netcoreapp3.1\HomeWorkProject.exe
+C:\repos\HomeWorkSolution\HomeWorkProject\bin\Debug\netcoreapp3.1\HomeWorkProject.deps.json
+C:\repos\HomeWorkSolution\HomeWorkProject\bin\Debug\netcoreapp3.1\HomeWorkProject.runtimeconfig.json
+C:\repos\HomeWorkSolution\HomeWorkProject\bin\Debug\netcoreapp3.1\HomeWorkProject.runtimeconfig.dev.json
+C:\repos\HomeWorkSolution\HomeWorkProject\bin\Debug\netcoreapp3.1\HomeWorkProject.dll
+C:\repos\HomeWorkSolution\HomeWorkProject\bin\Debug\netcoreapp3.1\HomeWorkProject.pdb
+C:\repos\HomeWorkSolution\HomeWorkProject\obj\Debug\netcoreapp3.1\HomeWorkProject.csprojAssemblyReference.cache
+C:\repos\HomeWorkSolution\HomeWorkProject\obj\Debug\netcoreapp3.1\HomeWorkProject.AssemblyInfoInputs.cache
+C:\repos\HomeWorkSolution\HomeWorkProject\obj\Debug\netcoreapp3.1\HomeWorkProject.AssemblyInfo.cs
+C:\repos\HomeWorkSolution\HomeWorkProject\obj\Debug\netcoreapp3.1\HomeWorkProject.csproj.CoreCompileInputs.cache
+C:\repos\HomeWorkSolution\HomeWorkProject\obj\Debug\netcoreapp3.1\HomeWorkProject.dll
+C:\repos\HomeWorkSolution\HomeWorkProject\obj\Debug\netcoreapp3.1\HomeWorkProject.pdb
+C:\repos\HomeWorkSolution\HomeWorkProject\obj\Debug\netcoreapp3.1\HomeWorkProject.genruntimeconfig.cache
